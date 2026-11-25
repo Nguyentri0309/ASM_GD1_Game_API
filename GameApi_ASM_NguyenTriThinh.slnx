@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="GameApi_ASM_NguyenTriThinh/GameApi_ASM_NguyenTriThinh.csproj" />
+  <Project Path="GameClient_WinForms/GameClient_WinForms.csproj" />
+</Solution>

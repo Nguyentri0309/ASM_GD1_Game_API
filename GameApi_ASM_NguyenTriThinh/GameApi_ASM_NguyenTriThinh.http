@@ -1,0 +1,6 @@
+@GameApi_ASM_NguyenTriThinh_HostAddress = http://localhost:5086
+
+GET {{GameApi_ASM_NguyenTriThinh_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
